@@ -4,6 +4,8 @@
 
 ## Live link
 
+* https://sgswamin.github.io/rick-and-morty-character-compass/
+
 ### Special Thanks
 
 * mimo.org for providing this fun and creative project idea.
